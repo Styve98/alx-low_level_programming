@@ -2,6 +2,7 @@
 
 /**
  * factorial - returns factorial number
+ * @param n The number for which factorial is calculated
  * Return: factorial of n
  */
 int factorial(int n)
