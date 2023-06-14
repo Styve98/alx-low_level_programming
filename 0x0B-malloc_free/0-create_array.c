@@ -5,7 +5,7 @@
  * create_array - it create array of size and assign char c.
  * @size: size of the array.
  * @c: char to be assign.
- * 
+ *
  * Return: pointer to array, NULL if it fails.
  */
 
